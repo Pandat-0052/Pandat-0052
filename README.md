@@ -1,3 +1,8 @@
+<div style="position: relative;">
+  <img src="https://github.com/Pandat-0052/Pandat-0052/blob/main/strategic-consulting.gif" alt="Small GIF" style="position: absolute; top: 10px; right: 10px; width: 50px; height: 50px;">
+</div>
+
+
 # Hi there! I'm Aakash Sharma, a Data Analyst 👋
 
 ## About Me
