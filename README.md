@@ -3,33 +3,29 @@
 </div>
 
 
-# Hi there! I'm Aakash Sharma, a Data Analyst 👋
+# <h1 align="center"> Hi there! I'm Aakash Sharma, a Data Analyst 👋
 
-## About Me
+# 💫 About Me:
 I am a passionate data enthusiast with a strong foundation in data analysis, visualization, and interpretation. My goal is to leverage data-driven insights to solve real-world problems and make informed decisions.
 
-- 🌱 I’m currently learning advanced data analysis techniques and machine learning.
-- 💼 Seeking opportunities to apply my skills in a dynamic and challenging environment.
-- 📚 Graduated with a degree in (B.Sc. PCM) from Subharti University.
+ 🌱 I’m currently learning advanced data analysis techniques and machine learning.    
+ 💼 Seeking opportunities to apply my skills in a dynamic and challenging environment.
 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-8B008B?style=for-the-badge&logo=Microsoft&logoColor=white)
+
+
+## 🌐 Connect with Me
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aakash-sharma-0052aakash)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Pandat-0052)  
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)   aakshsharma337@gmail.com
+
+ 
 ## Skills
-- Data Analysis and Visualization: Excel, SQL, Power BI, Python (pandas, matplotlib)
 - Statistical Analysis: Descriptive statistics, hypothesis testing
 - Data Wrangling: Cleaning, transforming, and preprocessing data
 - Data Visualization: Creating insightful visualizations to communicate findings
 
-## Projects
-Here are some of the data analysis projects I have worked on:
-1. Diabetes-Data_Using-SQL ([Project Link](https://github.com/Pandat-0052/Diabetes-Data-Analysis-using-SQL)) - To analyze a dataset related to diabetes to extract insights and patterns that can contribute to understanding and managing the disease better.
-2. HR Attrition_Using-Power BI ([Project Link](https://github.com/Pandat-0052/HR_Attrition)) - Analyzing HR attrition data to uncover insights and trends that inform strategic workforce management decisions and  enhance employee retention strategies.
-3. Customer Churn Analysis and Retention Strategies with Power BI #PWC ([Project Link](https://github.com/Pandat-0052/Customer-Churn-Analysis-and-Retention-Strategies-using-Power-BI-PWC)) - Analyzing customer churn patterns and developing effective retention strategies based on data-driven insights. By leveraging Power BI's visualization capabilities and analytical tools, aim to enhance customer retention rates and improve overall business performance.
-4. Call Center Analysis with Power BI #PWC ([Project Link](https://github.com/Pandat-0052/Call_Center_Analysis/blob/main/README.md)) - This project focuses on creating a Call Center Analytics Dashboard using Power BI as part of a simulation with PwC. The dashboard provides insights into key metrics related to call center performance, agent productivity, and customer satisfaction.
-5. Diversity And Inclusion with Power BI #PWC ([Project Link](https://github.com/Pandat-0052/Diversity-Inclusion-PWC/blob/main/README.md) - The simulation focused on enhancing skills related to data visualization, defining key performance indicators (KPIs) for gender balance and diversity, and understanding the imperatives of diversity and inclusion in the corporate world.
-6. IPL Data Analysis (2008-2022) with Power BI ([Project Link](https://github.com/Pandat-0052/IPL-Analysis-2008-2022/blob/main/README.md) - In this Projrct I've compiled extensive data on IPL matches and created insightful visualizations to uncover key trends and performances.
-
-## Connect with Me
-- LinkedIn: [Aakash Sharma](www.linkedin.com/in/aakash-sharma-0052aakash)
-- GitHub: [Pandat_0052](https://github.com/Pandat-0052)
-- Email: aakshsharma337@gmail.com
 
 I am eager to collaborate on new data projects and expand my skills. Let's connect and explore opportunities together!
